@@ -1,1 +1,1 @@
-# keeper-app
+Google Keep's clone made using React.js
